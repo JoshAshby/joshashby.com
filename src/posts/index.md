@@ -7,4 +7,7 @@ nav:
   posts: true
 +++
 
- * ####[Post 0 - Updated Site!](/posts/0/)
+Posted in order of most recent, and grouped by month.
+
+###August 2013
+ * ####[Updated Site!](0/) <span class="label label-success">New!</span>

@@ -5,29 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 
-    <script src="http://code.jquery.com/jquery.js"></script>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css">
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js"></script>
 
   </head>
   <body>
 
-    <div class="navbar">
-      <a class="navbar-brand" href="/">JoshAshby.com</a>
-      <ul class="nav navbar-nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/posts/">Posts</a></li>
-        <li><a href="/projects/">Projects</a></li>
-      </ul>
-      <ul class="nav navbar-nav pull-right">
-        <li><a href="/about/">About</a></li>
-      </ul>
-    </div>
+    {{{files.navbar}}}
+
+    {{{content}}}
 
     <div class="container">
-
-      {{{content}}}
-
       <hr>
       <footer id="footer">
         <div class="row">
@@ -42,5 +29,7 @@
       </footer>
 
     </div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js"></script>
   </body>
 </html>

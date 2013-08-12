@@ -2,3 +2,5 @@ input: "src"
 output: "/srv/http/joshashby.com"
 templates: "tmpls"
 site_title: "JoshAshby.com"
+
+files: ["navbar"]

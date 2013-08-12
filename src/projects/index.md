@@ -14,7 +14,7 @@ or at least ones that deserve their own webpage. Most of these will probably be
 software related however I have slowly been getting better at documenting
 some of my hardware and electronics related projects.
 
- * #### [fla.gr](/projects/flagr) <span class="label label-success">New!</span>
+ * #### [fla.gr](flagr/) <span class="label label-success">New!</span>
  * #### Seshat - WIP
  * #### pyRethinkORM - WIP
  * #### Beaglebone Software - WIP
